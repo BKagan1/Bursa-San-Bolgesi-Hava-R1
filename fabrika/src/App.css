@@ -1,0 +1,7 @@
+body {
+  background-image: url('pexels-pixabay-247763.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  .text {
+    font-size: 80px;}
+}
